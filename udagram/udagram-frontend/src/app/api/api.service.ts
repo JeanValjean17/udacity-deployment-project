@@ -10,7 +10,7 @@ const API_HOST = environment.apiHost;
 })
 export class ApiService {
   httpOptions = {
-    headers: new HttpHeaders({'Content-Type': 'application/json'})
+    headers: new HttpHeaders({'Content-Type': 'application/json', 'Origin': 'http://my-udagram-bucket.s3-website-us-east-1.amazonaws.com'})
   };
 
   token: string;
