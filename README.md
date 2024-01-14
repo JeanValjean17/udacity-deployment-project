@@ -3,7 +3,7 @@
 
 This project is part of the course Deployment Process from udacity. Application is available in following link:
 
-http://my-udagram-bucket.s3-website-us-east-1.amazonaws.com/home
+http://my-udagram-bucket.s3-website-us-east-1.amazonaws.com
 
 
 ## Screenshots
