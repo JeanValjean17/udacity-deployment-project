@@ -21,3 +21,8 @@
 * Configures AWS CLI with Access Keys provided in environment variables
 * Pulls our code from Github
 * Runs npm run frontend:deploy and npm run api:deploy to deploy these apps to their respective AWS Services.
+
+
+## Build Pipeline Process Diagram
+
+![Build Pipeline Process](./BuildPipelineProcessDiagram.png)
